@@ -28,7 +28,7 @@ const UI_SWITCH_CONTROL_VALUE_ACCESSOR: any = {
   `,
     styles: [`
     .switch {
-    background: #f00;
+    background-color: transparent;
     border: 1px solid #dfdfdf;
     position: relative;
     display: inline-block;
